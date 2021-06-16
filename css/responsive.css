@@ -1,0 +1,62 @@
+
+
+
+@media only screen and (max-width: 991px) {
+    .lightBox{
+        transform: scale(1);
+        box-shadow: none;
+    }
+    .lightBox:hover{
+        transform: scale(1.1);
+        box-shadow: 2px 7px 6px #b4dac8;
+    }
+  }
+@media only screen and (max-width: 767px) {
+  
+    .testimonialImg {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 20px;
+    }
+    .bannerContent p {
+
+        text-align: justify;
+    }
+    .bannerContentHide{
+        display: none;
+    }
+  }
+  @media only screen and (max-width: 575px) {
+    #heoSection {
+        padding: 0px 15px;
+    }
+    .row>* {
+     
+        padding-right:0;
+        padding-left: 0
+       
+    }
+    .carousel_single_item {
+        min-height: 300px;
+    }
+    .facilityBox {
+        margin-bottom: 25px;
+    }
+    .courseContentWrapper {
+        
+        padding: 15px 30px;
+        margin: 0px 30px;
+        margin-bottom: 25px;
+       
+    }
+    .bannerContent {
+        padding: 0px 15px;
+    }
+    #footerSection {
+        padding: 30px 40px;
+    }
+    .mb25{
+        margin-bottom: 25px;
+    }
+  }

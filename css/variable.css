@@ -1,0 +1,23 @@
+
+
+:root{
+
+    /* font size */
+    --fontS12:12px;
+    --fontS13:13px;
+    --fontS14:14px;
+    --fontS15:15px;
+    --fontS16:16px;
+    --fontS17:17px;
+    --fontS18:18px;
+    --fontS40:40px;
+    --fontS42:42px;
+
+    /* color */
+
+    --color_pink:#e83e8c;
+    --color_redPink:#e83e8c;
+    --color_White:#fff;
+    --color_orrange:#fd7e14;
+    --color_blue:#007bff;
+}
